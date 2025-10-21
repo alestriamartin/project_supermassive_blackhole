@@ -11,6 +11,9 @@ The simulation created allowed me to obtain two database files containing numeri
 In order to understand what happens we chose to analyse these two datasets through graphical analysis that provides valuable insight into the coevolution of black holes and their host galaxies. 
 
 ### distance vs time
+<img src="https://drive.google.com/file/d/1p20UA8iYclDYWttgMMq9dco8-2OKYOGD/view?usp=drive_link" alt="Figure" width="500">
+
+
 
 
 ### mass vs time
