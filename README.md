@@ -38,9 +38,18 @@ Conversely, when the density drops, there is less matter to accrete, so the accr
 ### Correlation - Gaz Density over the Accretion Rate
 ![correlation](https://drive.google.com/uc?export=view&id=1xwAFOJ9yHHbBtgSK1Tu05lf1IyJVpc3F)
 
+
 A high gas density leads to a high accretion rate, as the black hole has more material available to capture. The correlation between density and accretion rate reveals a proportional relationship as we can see with the linear function formed: Therefore, as density increases, accretion becomes more efficient, accelerating the black hole’s mass growth. Conversely, in low-density regions, the accretion rate drops significantly, slowing down the evolution. This direct link highlights the essential role of the surrounding environment in driving accretion processes and the long-term growth of black holes.
 
 ## Conclusion 
+We found that the density is proportionnal to the blackhole mass, it is exactly what found the astrophysician Hermann Bondi in 1952 when he wrote his law named after him : the Bondi accretion. 
+
+$$
+\dot{M}_{\text{Bondi}} = 4 \pi G^2 M_{\text{BH}}^2 \frac{\rho}{c_s^3}
+$$
+
+
+The mass does indeed depend on the gas density of the galaxy. However, other variables play a secondary role, that's why we don't have a well-defined constant straight line on the correlation graphic. 
 
 
 ## Sources 
