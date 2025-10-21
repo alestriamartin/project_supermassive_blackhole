@@ -24,14 +24,23 @@ Their motion follows an elliptical trajectory with two key points: the pericente
 ### Mass over Time
 ![mass over time](https://drive.google.com/uc?export=view&id=1yNwov1k5_nc1adFXSVAY4FQObYrGV6s9)
 
-
-
 ### Accretion Rate
 ![accretion rate](https://drive.google.com/uc?export=view&id=1A4KskyqRAayf3SmbRgbo2qexDmd2az6u)
 
-The accretion rate shows how fast the black hole gains mass. When the accretion rate increases sharply (at the beginning and around 1 and 2 Gyr), the black hole absorbs a lot of matter in a short time. These peaks correspond to the sudden rises seen in the mass-over-time graph. Between these peaks, the accretion rate is very low, which explains the flat parts of the mass curve. In short, when the accretion rate is high, the black hole’s mass grows quickly; when it is low, the mass stays almost constant. 
+The accretion rate shows how fast the black hole gains mass. When the accretion rate increases sharply (at the beginning and around 1 and 2 Gyr), the black hole absorbs a lot of matter in a short time. These peaks correspond to the sudden rises seen in the mass-over-time graph. Between these peaks, the accretion rate is very low, which explains the flat parts of the mass curve. In short, when the accretion rate is high, the black hole’s mass grows quickly, when it is low, the mass stays almost constant. 
 
 ### Gaz Density over Time
-### Gaz Density over the Accretion Rate
+![gaz density over time](https://drive.google.com/uc?export=view&id=1Zr1zbZcepTIGZf_YlOB04PzFb4hj8DKH)
+
+This graph shows how the density of the blackhole surrounding changes over time. When the density is high, there is more gas available around the black hole, which leads to a higher accretion rate. These dense phases correspond to the accretion peaks observed earlier, where the black hole absorbs more material and its mass increases rapidly.
+Conversely, when the density drops, there is less matter to accrete, so the accretion rate becomes low and the mass curve flattens. The variations in density therefore directly influence how quickly the black hole grows over time, higher density means faster growth, while lower density results in slower or nearly constant mass evolution.
+
+### Correlation - Gaz Density over the Accretion Rate
+![correlation](https://drive.google.com/uc?export=view&id=1xwAFOJ9yHHbBtgSK1Tu05lf1IyJVpc3F)
+
+A high gas density leads to a high accretion rate, as the black hole has more material available to capture. The correlation between density and accretion rate reveals a proportional relationship as we can see with the linear function formed: Therefore, as density increases, accretion becomes more efficient, accelerating the black hole’s mass growth. Conversely, in low-density regions, the accretion rate drops significantly, slowing down the evolution. This direct link highlights the essential role of the surrounding environment in driving accretion processes and the long-term growth of black holes.
+
 ## Conclusion 
+
+
 ## Sources 
