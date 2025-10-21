@@ -17,6 +17,7 @@ In order to understand what happens we chose to analyse these two datasets throu
 
 ### Mass over Time
 ### Accretion Rate
-### Gaz Density vs Time
-### Gaz Density vs the Accretion Rate
+### Gaz Density over Time
+### Gaz Density over the Accretion Rate
 ## Conclusion 
+## Sources 
