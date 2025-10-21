@@ -11,11 +11,19 @@ The simulation created allowed me to obtain two database files containing numeri
 In order to understand what happens we chose to analyse these two datasets through graphical analysis that provides valuable insight into the coevolution of black holes and their host galaxies. 
 
 ### Distance over Time
+![relative distances](https://drive.google.com/uc?export=view&id=1Q1ehVG-l-D24MuOoFqCHwc7HruyYK_DC)
+
+This graph illustrates the relative trajectories of two black holes during a galactic merger. The blue and red curves represent the motion of each black hole as they orbit around their common center of mass. Each curve shows alternating phases where the black hole reaches its pericenter — the point of closest approach between the two objects — and its apocenter, the point of maximum separation in their orbital path. As the system evolves, the orbits gradually shrink due to the loss of energy through gravitational interactions, leading the two trajectories to spiral inward. This behavior reflects the final stages of binary black hole coalescence, where the two objects eventually merge into a single, more massive black hole.
+
+
 ![distance between the two black holes](https://drive.google.com/uc?export=view&id=1p20UA8iYclDYWttgMMq9dco8-2OKYOGD)
 
-
+This second graph is another point of view of what happens with the distance between the two blackholes. This represents the evolution of the distance between one of the two blackholes and the place where the galactic merge will take place. Indeed, during a galactic merger, two black holes do not collide directly but orbit around each other under their mutual gravity.
+Their motion follows an elliptical trajectory with two key points: the pericenter and the apocenter. Thus, the black hole move away and come back periodically, following this orbital cycle. This explain why the curve drops sharply and then rise again. 
 
 ### Mass over Time
+![mass over time](https://drive.google.com/uc?export=view&id=1yNwov1k5_nc1adFXSVAY4FQObYrGV6s9)
+
 ### Accretion Rate
 ### Gaz Density over Time
 ### Gaz Density over the Accretion Rate
