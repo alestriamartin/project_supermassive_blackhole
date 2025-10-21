@@ -1,6 +1,6 @@
 # Simulation of Galaxy Merging with Binary Blackholes
 Princeton project 
-## Introduction 
+## Introduction - Overview
 In the Universe, almost every large galaxy has at its center a giant black hole, called a supermassive black hole. Scientists believe that these black holes and their host galaxies have grown together over time. This idea is known as coevolution. It comes from the observation that the size of a black hole seems to be related to the size of its galaxy. The two appear to share a common history, evolving side by side since the early stages of the Universe. 
 Astrophysicians of Princeton university, created a simulation of a merging of two galaxies each of them containing a supremassive blackhole, the purpose is to study the coevolution between galaxies and supremassive blackholes.  
 
@@ -10,14 +10,13 @@ The simulation created allowed me to obtain two database files containing numeri
 ## Graphs
 In order to understand what happens we chose to analyse these two datasets through graphical analysis that provides valuable insight into the coevolution of black holes and their host galaxies. 
 
-### distance vs time
-<img src="https://drive.google.com/file/d/1p20UA8iYclDYWttgMMq9dco8-2OKYOGD/view?usp=drive_link" alt="Figure" width="500">
+### Distance over Time
+![distance between the two black holes](https://drive.google.com/uc?export=view&id=1p20UA8iYclDYWttgMMq9dco8-2OKYOGD)
 
 
 
-
-### mass vs time
-### accretion rate
-### gaz density vs time
-### gaz density vs the accretion rate
+### Mass over Time
+### Accretion Rate
+### Gaz Density vs Time
+### Gaz Density vs the Accretion Rate
 ## Conclusion 
