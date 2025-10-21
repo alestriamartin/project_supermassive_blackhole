@@ -1,2 +1,2 @@
-# project_supermassive_blackhole
+# Simulation of Galaxy Merging with Binary Blackholes
 princeton project 
