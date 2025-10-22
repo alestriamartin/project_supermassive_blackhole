@@ -32,7 +32,7 @@ Their motion follows an elliptical trajectory with two key points: the pericente
 
 ![mass over time](https://drive.google.com/uc?export=view&id=1yNwov1k5_nc1adFXSVAY4FQObYrGV6s9)
 
-*Evolution of the blackhole mass over time*
+*Evolution of the blackhole masses over time*
 
 ![accretion rate](https://drive.google.com/uc?export=view&id=1aPMowLZMnB3kmwwh_NTogJOhfkw13HHh)
 
