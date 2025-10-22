@@ -72,3 +72,8 @@ The mass does indeed depend on the gas density of the galaxy. However, other var
 
 
 ## Sources 
+"CNRS' web" https://news.cnrs.fr/articles/black-hole-sgr-a-unmasked
+
+"Bondi's accretion theory" https://en.wikipedia.org/wiki/Bondi_accretion
+
+
