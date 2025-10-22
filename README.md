@@ -21,7 +21,7 @@ In order to understand what happens we chose to analyse these two datasets throu
 *Trajectory of the two Blackholes*
 
 
-This graph illustrates the relative trajectories of two black holes during a galactic merger. The blue and red curves represent the motion of each black hole as they orbit around their common center of mass. Each curve shows alternating phases where the black hole reaches its pericenter the point of closest approach between the two objects and its apocenter, the point of maximum separation in their orbital path. As the system evolves, the orbits gradually shrink due to the loss of energy through gravitational interactions, leading the two trajectories to spiral inward. This behavior reflects the final stages of binary black hole coalescence, where the two objects eventually merge into a single, more massive black hole.
+This graph illustrates the relative trajectories of two black holes during a galactic merger. The blue and red curves represent the motion of each black hole as they orbit around their common center of mass. Each curve shows alternating phases where the black hole reaches its pericenter, the point of closest approach between the two objects and its apocenter, the point of maximum separation in their orbital path. As the system evolves, the orbits gradually shrink due to the loss of energy through gravitational interactions, leading the two trajectories to spiral inward. This behavior reflects the final stages of binary black hole coalescence, where the two objects eventually merge into a single, more massive black hole.
 
 ![relative distances](https://drive.google.com/uc?export=view&id=1p20UA8iYclDYWttgMMq9dco8-2OKYOGD)
 
@@ -69,6 +69,10 @@ $$
 - $c_s$ is the **sound speed** in this gas (related to its temperature).
 
 The mass does indeed depend on the gas density of the galaxy. However, other variables play a secondary role, that's why we don't have a well-defined constant straight line on the correlation graphic. 
+
+As a matter of fact, if we calculate the accretion rate with the others variables and compare it with the accretion rate given by the simulation we found the straight line. 
+
+![](https://drive.google.com/uc?export=view&id=1eoVCXHsqZb7xVpvyv0aU2jeKinqGVpyM)
 
 
 ## Sources 
