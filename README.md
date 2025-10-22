@@ -12,7 +12,7 @@ In order to understand what happens we chose to analyse these two datasets throu
 
 ![trajectory of the two blackholes](https://drive.google.com/uc?export=view&id=1Q1ehVG-l-D24MuOoFqCHwc7HruyYK_DC)
 
-*trajectory of the two blackholes*
+*Trajectory of the two Blackholes*
 
 
 This graph illustrates the relative trajectories of two black holes during a galactic merger. The blue and red curves represent the motion of each black hole as they orbit around their common center of mass. Each curve shows alternating phases where the black hole reaches its pericenter — the point of closest approach between the two objects — and its apocenter, the point of maximum separation in their orbital path. As the system evolves, the orbits gradually shrink due to the loss of energy through gravitational interactions, leading the two trajectories to spiral inward. This behavior reflects the final stages of binary black hole coalescence, where the two objects eventually merge into a single, more massive black hole.
@@ -24,19 +24,17 @@ This graph illustrates the relative trajectories of two black holes during a gal
 This second graph is another point of view of what happens with the distance between the two blackholes. This represents the evolution of the relative distances that seperate the two blackholes. Indeed, during a galactic merger, two black holes do not collide directly but orbit around each other under their mutual gravity.
 Their motion follows an elliptical trajectory with two key points: the pericenter and the apocenter. Thus, the black hole move away and come back periodically, following this orbital cycle. This explain why the curve drops sharply and then rise again. 
 
-### Mass over Time
 ![mass over time](https://drive.google.com/uc?export=view&id=1yNwov1k5_nc1adFXSVAY4FQObYrGV6s9)
 
 *Evolution of the blackhole mass over time*
 
-### Accretion Rate
 ![accretion rate](https://drive.google.com/uc?export=view&id=1aPMowLZMnB3kmwwh_NTogJOhfkw13HHh)
 
 *The Accretion Rate*
 
 The accretion rate shows how fast the black hole gains mass. When the accretion rate increases sharply (at the beginning and around 1 and 2 Gyr), the black hole absorbs a lot of matter in a short time. These peaks correspond to the sudden rises seen in the mass-over-time graph. Between these peaks, the accretion rate is very low, which explains the flat parts of the mass curve. In short, when the accretion rate is high, the black hole’s mass grows quickly, when it is low, the mass stays almost constant. 
 
-### Gas Density over Time
+
 ![gaz density over time](https://drive.google.com/uc?export=view&id=1Zr1zbZcepTIGZf_YlOB04PzFb4hj8DKH)
 
 *Evolution of the galaxy gas density over time*
@@ -45,10 +43,9 @@ The accretion rate shows how fast the black hole gains mass. When the accretion 
 This graph shows how the density of the blackhole surrounding changes over time. When the density is high, there is more gas available around the black hole, which leads to a higher accretion rate. These dense phases correspond to the accretion peaks observed earlier, where the black hole absorbs more material and its mass increases rapidly.
 Conversely, when the density drops, there is less matter to accrete, so the accretion rate becomes low and the mass curve flattens. The variations in density therefore directly influence how quickly the black hole grows over time, higher density means faster growth, while lower density results in slower or nearly constant mass evolution.
 
-### Correlation - Gas Density over the Accretion Rate
 ![correlation](https://drive.google.com/uc?export=view&id=1xwAFOJ9yHHbBtgSK1Tu05lf1IyJVpc3F)
 
-*Gas Density over the Accretion Rate*
+*Gas Density over the Accretion Rate - Correlation*
 
 A high gas density leads to a high accretion rate, as the black hole has more material available to capture. The correlation between density and accretion rate reveals a proportional relationship as we can see with the linear function formed: Therefore, as density increases, accretion becomes more efficient, accelerating the black hole’s mass growth. Conversely, in low-density regions, the accretion rate drops significantly, slowing down the evolution. This direct link highlights the essential role of the surrounding environment in driving accretion processes and the long-term growth of black holes.
 
