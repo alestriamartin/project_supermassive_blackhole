@@ -1,7 +1,7 @@
 # Simulation of Galaxy Merging with Binary Blackholes
 Princeton project 
 ![Sgr*](https://drive.google.com/uc?export=view&id=1q4TR25HhPJ3Nhtw8dXukd7_aIHHln4a2)
-*Image of the supermassive black hole Sagittarius A* located at the centre of the Milky Way.*
+*Image of the supermassive black hole Sagittarius A* with its accretion disk located at the centre of the Milky Way
 
 ## Introduction - Overview
 In the Universe, almost every large galaxy has at its center a giant black hole, called a supermassive black hole. Scientists believe that these black holes and their host galaxies have grown together over time. This idea is known as coevolution. It comes from the observation that the size of a black hole seems to be related to the size of its galaxy. The two appear to share a common history, evolving side by side since the early stages of the Universe. 
@@ -21,7 +21,7 @@ In order to understand what happens we chose to analyse these two datasets throu
 *Trajectory of the two Blackholes*
 
 
-This graph illustrates the relative trajectories of two black holes during a galactic merger. The blue and red curves represent the motion of each black hole as they orbit around their common center of mass. Each curve shows alternating phases where the black hole reaches its pericenter — the point of closest approach between the two objects — and its apocenter, the point of maximum separation in their orbital path. As the system evolves, the orbits gradually shrink due to the loss of energy through gravitational interactions, leading the two trajectories to spiral inward. This behavior reflects the final stages of binary black hole coalescence, where the two objects eventually merge into a single, more massive black hole.
+This graph illustrates the relative trajectories of two black holes during a galactic merger. The blue and red curves represent the motion of each black hole as they orbit around their common center of mass. Each curve shows alternating phases where the black hole reaches its pericenter the point of closest approach between the two objects and its apocenter, the point of maximum separation in their orbital path. As the system evolves, the orbits gradually shrink due to the loss of energy through gravitational interactions, leading the two trajectories to spiral inward. This behavior reflects the final stages of binary black hole coalescence, where the two objects eventually merge into a single, more massive black hole.
 
 ![relative distances](https://drive.google.com/uc?export=view&id=1p20UA8iYclDYWttgMMq9dco8-2OKYOGD)
 
