@@ -1,20 +1,20 @@
 # Simulation of Galaxy Merging with Binary Blackholes
-Princeton project 
+
 ![Sgr*](https://drive.google.com/uc?export=view&id=1q4TR25HhPJ3Nhtw8dXukd7_aIHHln4a2)
 *Image of the supermassive black hole Sagittarius A* with its accretion disk located at the centre of the Milky Way
 
 ## Introduction - Overview
 In the Universe, almost every large galaxy has at its center a giant black hole, called a supermassive black hole. Scientists believe that these black holes and their host galaxies have grown together over time. This idea is known as coevolution. It comes from the observation that the size of a black hole seems to be related to the size of its galaxy. The two appear to share a common history, evolving side by side since the early stages of the Universe. 
-Astrophysicians of Princeton university, created a simulation of a two galaxy merge, each of them containing a supermassive blackhole, the purpose is to study the coevolution between galaxies and supermassive blackholes.  
+Astrophysicists at Princeton university created a simulation of two galaxies merging, each of them containing a supermassive blackhole, the goal is to study the coevolution between galaxies and supermassive blackholes.  
 
 ![simulation images](https://drive.google.com/uc?export=view&id=1KlcR7OK_xI98c_It3PexEXGB_-Tb-cZ5)
-*Evolution of the two blackholes in the simulation* 
+*Evolution of the two galaxies in the simulation (the lenght of the image is 100 kiloparsec* 
 
 ## What did I do ? 
-The simulation created allowed me to obtain two database files containing numerical data illustrating the behavior of the two black holes in the galaxies that were merging. I was able to access these data using Python with the ‘pandas’ library, and I analyzed them with ‘matplotlib’, which enabled me to plot graphs in order to understand how these numerical values were related to each other and what connections could be made between them.
+The simulation created allowed me to obtain two database files containing numerical data illustrating the behavior of the two black holes in the galaxies while they were merging. I was able to access these data using Python with the ``pandas`` library, and I analyzed them with ``matplotlib``, which enabled me to plot graphs in order to understand how these numerical values were related to each other and what connections could be made between them.
 
 ## Graphs
-In order to understand what happens we chose to analyse these two datasets through graphical analysis that provides valuable insight into the coevolution of black holes and their host galaxies. 
+In order to understand the simulation we chose to analyse these two datasets through graphical analysis that provides valuable insight into the coevolution of black holes and their host galaxies. 
 
 ![trajectory of the two blackholes](https://drive.google.com/uc?export=view&id=1Q1ehVG-l-D24MuOoFqCHwc7HruyYK_DC)
 
@@ -46,7 +46,7 @@ The accretion rate shows how fast the black hole gains mass. When the accretion 
 *Evolution of the galaxy gas density over time*
 
 
-This graph shows how the density of the blackhole surrounding changes over time. When the density is high, there is more gas available around the black hole, which leads to a higher accretion rate. These dense phases correspond to the accretion peaks observed earlier, where the black hole absorbs more material and its mass increases rapidly.
+This graph shows how the density of the gas around the blackhole changes over time. When the density is high, there is more gas available around the black hole, which leads to a higher accretion rate. These dense phases correspond to the accretion peaks observed earlier, where the black hole absorbs more material and its mass increases rapidly.
 Conversely, when the density drops, there is less matter to accrete, so the accretion rate becomes low and the mass curve flattens. The variations in density therefore directly influence how quickly the black hole grows over time, higher density means faster growth, while lower density results in slower or nearly constant mass evolution.
 
 ![correlation](https://drive.google.com/uc?export=view&id=1xwAFOJ9yHHbBtgSK1Tu05lf1IyJVpc3F)
@@ -56,7 +56,7 @@ Conversely, when the density drops, there is less matter to accrete, so the accr
 A high gas density leads to a high accretion rate, as the black hole has more material available to capture. The correlation between density and accretion rate reveals a proportional relationship as we can see with the linear function formed: Therefore, as density increases, accretion becomes more efficient, accelerating the black hole’s mass growth. Conversely, in low-density regions, the accretion rate drops significantly, slowing down the evolution. This direct link highlights the essential role of the surrounding environment in driving accretion processes and the long-term growth of black holes.
 
 ## Conclusion 
-We found that the gas density is proportionnal to the blackhole mass, it is exactly what found the astrophysician Hermann Bondi in 1952 when he wrote his law named after him : the Bondi accretion. 
+We found that the gas density is proportionnal to the blackhole mass, it is exactly what found the astrophysicist Hermann Bondi in 1952 when he wrote his law named after him : the Bondi accretion. 
 
 $$
 \dot{M}_{\text{Bondi}} = 4 \pi G^2 M_{\text{BH}}^2 \frac{\rho}{c_s^3}
@@ -69,11 +69,6 @@ $$
 - $c_s$ is the **sound speed** in this gas (related to its temperature).
 
 The mass does indeed depend on the gas density of the galaxy. However, other variables play a secondary role, that's why we don't have a well-defined constant straight line on the correlation graphic. 
-
-As a matter of fact, if we calculate the accretion rate with the others variables and compare it with the accretion rate given by the simulation we found the straight line. 
-
-![](https://drive.google.com/uc?export=view&id=1eoVCXHsqZb7xVpvyv0aU2jeKinqGVpyM)
-
 
 ## Sources 
 "CNRS' web" https://news.cnrs.fr/articles/black-hole-sgr-a-unmasked
