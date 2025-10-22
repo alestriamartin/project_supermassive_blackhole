@@ -25,7 +25,8 @@ Their motion follows an elliptical trajectory with two key points: the pericente
 ![mass over time](https://drive.google.com/uc?export=view&id=1yNwov1k5_nc1adFXSVAY4FQObYrGV6s9)
 
 ### Accretion Rate
-![accretion rate](https://drive.google.com/uc?export=view&id=1A4KskyqRAayf3SmbRgbo2qexDmd2az6u)
+![Description de l’image](https://drive.google.com/file/d/1aPMowLZMnB3kmwwh_NTogJOhfkw13HHh)
+
 
 The accretion rate shows how fast the black hole gains mass. When the accretion rate increases sharply (at the beginning and around 1 and 2 Gyr), the black hole absorbs a lot of matter in a short time. These peaks correspond to the sudden rises seen in the mass-over-time graph. Between these peaks, the accretion rate is very low, which explains the flat parts of the mass curve. In short, when the accretion rate is high, the black hole’s mass grows quickly, when it is low, the mass stays almost constant. 
 
