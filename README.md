@@ -7,8 +7,8 @@
 In the Universe, almost every large galaxy has at its center a giant black hole, called a supermassive black hole. Scientists believe that these black holes and their host galaxies have grown together over time. This idea is known as coevolution. It comes from the observation that the size of a black hole seems to be related to the size of its galaxy. The two appear to share a common history, evolving side by side since the early stages of the Universe. 
 Astrophysicists at Princeton university created a simulation of two galaxies merging, each of them containing a supermassive blackhole, the goal is to study the coevolution between galaxies and supermassive blackholes.  
 
-![simulation images](https://drive.google.com/uc?export=view&id=1KlcR7OK_xI98c_It3PexEXGB_-Tb-cZ5)
-*Evolution of the two galaxies in the simulation (the lenght of the image is 100 kiloparsec* 
+![simulation images](https://drive.google.com/uc?export=view&id=1hWQI1V0_kAvaGxlwQ7p-47o72KyvcbgH)
+*Evolution of the two galaxies in the simulation (the lenght of the image is 100 kiloparsec (lenght of the image : 100 kiloparsec)* 
 
 ## What did I do ? 
 The simulation created allowed me to obtain two database files containing numerical data illustrating the behavior of the two black holes in the galaxies while they were merging. I was able to access these data using Python with the ``pandas`` library, and I analyzed them with ``matplotlib``, which enabled me to plot graphs in order to understand how these numerical values were related to each other and what connections could be made between them.
